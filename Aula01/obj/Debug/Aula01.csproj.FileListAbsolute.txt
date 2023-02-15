@@ -1,0 +1,11 @@
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\bin\Debug\Aula01.exe.config
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\bin\Debug\Aula01.exe
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\bin\Debug\Aula01.pdb
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.csproj.AssemblyReference.cache
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.csproj.SuggestedBindingRedirects.cache
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.Properties.Resources.resources
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.csproj.GenerateResource.cache
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.exe
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.pdb
+C:\Users\#09-2\Documents\windows-forms-csharp\Aula01\obj\Debug\Aula01.FormCFBCursos.resources
