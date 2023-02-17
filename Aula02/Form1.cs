@@ -63,5 +63,17 @@ namespace Aula02
             CheckedListBoxForm checkedListBox = new CheckedListBoxForm();
             checkedListBox.ShowDialog();
         }
+
+        private void comboBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ComboBoxForm comboBoxForm = new ComboBoxForm();
+            comboBoxForm.ShowDialog();
+        }
+
+        private void dateTimePickerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DateTimePickerForm dateTimePicker = new DateTimePickerForm();
+            dateTimePicker.ShowDialog();
+        }
     }
 }
